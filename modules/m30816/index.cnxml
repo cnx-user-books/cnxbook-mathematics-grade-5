@@ -1,0 +1,1489 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Division</title>
+  <metadata>
+  <md:content-id>m30816</md:content-id><md:title>Division</md:title>
+  <md:abstract/>
+  <md:uuid>c0ed8cab-ff23-4c2f-a68a-5d4fdd8e1536</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167224183336">
+      <title>MATHEMATICS</title>
+      <para id="para-id1167224183336">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167224183344">
+      <title>Grade 5</title>
+      <para id="para-id1167224183344">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167224183352">
+      <title>MULTIPLICATION AND DIVISION</title>
+      <para id="para-id1167224183352">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167224183360">
+      <title>Module 33</title>
+      <para id="para-id1167224183360">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167224183370">
+      <title>DIVISION</title>
+      <section id="id1167224183377">
+        <title>Activity 1:</title>
+        <para id="para-id1167224183377">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224183385">
+        <title>To be able to do mental arithmetic [LO 1.10]</title>
+        <list id="id1167224183391" list-type="enumerated" number-style="arabic">
+          <item>You already know how important it is to be able to do mental arithmetic. You also know how important it is to know your tables. Doing mental arithmetic and knowing your tables will help you do division correctly, too. Let us start right away! Do you also like dried sausage ("droëwors")? Work with a friend. Look closely at the two "sausage machines". The one who is first to give the answers is the fastest sausage maker!</item>
+        </list>
+        <figure id="id1167224183420">
+          <media id="id1167224183420_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-d71d.png" id="id1167224183420__onlineimage" height="238" width="300"/>
+          </media>
+        </figure>
+        <figure id="id1167224183446">
+          <media id="id1167224183446_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-2560.png" id="id1167224183446__onlineimage" height="226" width="295"/>
+          </media>
+        </figure>
+        <para id="id1167224183469"/>
+        <para id="id1167224183474">Who won? </para>
+        <para id="id1167224183478">2. Work on your own and colour in according to the code: 4 = dark grey ; 5 = pink ; 6 = light grey ; 7 = black ; 9 = red.</para>
+        <para id="id1167224183497">3. Complete the tables:</para>
+        <table id="id1167224183503" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>34</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.1</entry>
+                <entry>Divided by</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Remainders</entry>
+                <entry>1</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1167224183809" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>61</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.2</entry>
+                <entry>Divided by</entry>
+                <entry>2</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Remainders</entry>
+                <entry>1</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224184115">4. Let us see how well you do in the following mental test. Complete it as quickly and accurately as you can:</para>
+        <table id="id1167224184142" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.1  35 – 5 – 5 – 5 = ............</entry>
+                <entry>4.11 108 – 12 – 12 – 12 = ............</entry>
+              </row>
+              <row>
+                <entry>4.2  64 – 8 – 8 = ............</entry>
+                <entry>4.12 72 – 9 – 9 = ............</entry>
+              </row>
+              <row>
+                <entry>4.3  42 ÷ 7 = ............</entry>
+                <entry>4.13 Halve: 612: ............</entry>
+              </row>
+              <row>
+                <entry>4.4  54 ÷ 6 = ............</entry>
+                <entry>4.14 Halve: 487: ............</entry>
+              </row>
+              <row>
+                <entry>4.5  ............ ÷ 7 = 8</entry>
+                <entry>4.15 Halve: 1 036: ............</entry>
+              </row>
+              <row>
+                <entry>4.6  ............ ÷ 12 = 6</entry>
+                <entry>4.16 ............ ÷ 9 = 4</entry>
+              </row>
+              <row>
+                <entry>4.7  28 ÷ 4 = ............</entry>
+                <entry>4.17 ............ ÷ 8 = 6</entry>
+              </row>
+              <row>
+                <entry>4.8  280 ÷ 4 = ............</entry>
+                <entry>4.18 60 ÷ ............ = 5</entry>
+              </row>
+              <row>
+                <entry>4.9  280 ÷ 40 = ............</entry>
+                <entry>4.19 36 ÷ ............ = 4</entry>
+              </row>
+              <row>
+                <entry>4.10 2 800 ÷ 40 = ............</entry>
+                <entry>4.20 3 600 ÷ 90 = ............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224184876"> DID YOU KNOW?</para>
+        <para id="id1167224184888">Division is the <emphasis effect="bold">inverse</emphasis> of multiplication. </para>
+        <para id="id1167224184905">Thus: 5 × 3 = 1515 ÷ 3 = 5 en15 ÷ 5 = 3</para>
+        <para id="id1167224184955">When I want to check a division sum, I multiply. When I check a multiplication sum, I divide</para>
+      </section>
+      <section id="id1167224184964">
+        <title>Activity 2:</title>
+        <para id="para-id1167224184964">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224184972">
+        <title>To recognise, describe and use the reciprocal relation between multiplication and division </title>
+        <para id="para-id1167224184972">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224184980">
+        <title>[LO 1.12.1]</title>
+        <para id="id1167224184987">1. Now use your knowledge of the "inverse" to complete the following:</para>
+        <para id="id1167224184994">1.1 If 26 × 17 = 442, then 442 ÷ 17 = ................ and 442 ÷ ................ = 17</para>
+        <list id="id1167224185068" list-type="bulleted">
+          <item>If 24 × 30 = 720, then 720 ÷ ................ = 24 and 720 ÷ 24 = ................</item>
+        </list>
+        <para id="id1167224185138"> DID YOU ALSO KNOW?</para>
+        <para id="id1167224185150">When we divide, we do the following:</para>
+        <para id="id1167224185155">REPEATED SUBTRACTION</para>
+        <para id="id1167224185160">12 ÷ 3 = 12 – 3 – 3 – 3 – 3 = 4</para>
+        <para id="id1167224185165"/>
+        <para id="id1167224158179">GROUPING</para>
+        <para id="id1167224158184">12 ÷ 3: We must divide 12 into 3 equal groups</para>
+        <para id="id1167224158191"/>
+        <para id="id1167224160698"/>
+        <para id="id1167224160702">DIVISION</para>
+        <para id="id1167224160707">12 ÷ 3: We must divide 12 equally between 3</para>
+        <para id="id1167224160716">123</para>
+      </section>
+      <section id="id1167224163636">
+        <title>Activity 3:</title>
+        <para id="para-id1167224163636">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224163644">
+        <title>To recognise and represent numbers and to describe and compare them [LO 1.3]</title>
+        <para id="id1167224163650">1. Let us do revision. Do you remember what happens when we divide any number by 1? Work with a friend and find the answers to the following:</para>
+        <para id="id1167224163661">1.1 5 ÷ 1 = .................................. 1.2 86 ÷ 1 = ............................</para>
+        <para id="id1167224163709">1.3 359 ÷ 1 = .............................. 1.4 4 625 ÷ 1 = .......................</para>
+        <para id="id1167224163758">1.5 32 174 ÷ 1 = .........................</para>
+        <para id="id1167224163789">2. Write down a rule for dividing by 1. </para>
+        <para id="id1167224163797"> BRAIN-TEASER!</para>
+        <para id="id1167224163809">If 5 ÷ 1 = 5 and 86 ÷ 1 = 86, then:</para>
+        <para id="id1167224163814">1 ÷ 5 = .........................</para>
+        <para id="id1167224163837">1 ÷ 86 = .........................</para>
+        <para id="id1167224163860">1 ÷ 359 = .........................</para>
+        <para id="id1167224163883">1 ÷ 4 625 = .........................</para>
+        <para id="id1167224163909">Thus, if 1 is the dividend, then the answer is always a...........................................</para>
+        <para id="id1167224163924">3. Now let us see what happens when we divide any number by 0. Work with a friend once more and do the following with the aid of your calculator:</para>
+        <para id="id1167224163932">3.1 6 ÷ 0 = ................................... 3.2 38 ÷ 0 = ..............................</para>
+        <para id="id1167224163980">3.3 438 ÷ 0 = ............................... 3.4 1 679 ÷ 0 = .........................</para>
+        <list id="id1167224164029" list-type="bulleted">
+          <item>63 827 ÷ 0 = .........................</item>
+        </list>
+        <para id="id1167224164056">4. Why does the calculator give these answers?  </para>
+        <para id="id1167224164066"/>
+        <para id="id1167224164070"> DO YOU STILL REMEMBER?</para>
+        <para id="id1167224164082">Division by 0 is not allowed. We say it is <emphasis effect="bold">undefined</emphasis>.</para>
+        <para id="id1167224164101"/>
+        <para id="id1167224164105"> BRAIN-TEASER!</para>
+        <para id="id1167224164116">I think of a number. If I subtract 3 and then divide the number by 6, the quotient will be 7.  What is the number? ..................</para>
+        <para id="id1167224164141">I think of another number. If I halve it and then divide it by 12, the quotient will be 9.  What is the number? ..................</para>
+      </section>
+      <section id="id1167224164167">
+        <title>Activity 4:</title>
+        <para id="para-id1167224164167">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224164175">
+        <title>To describe and illustrate other cultures' ways of writing [LO 1.2]</title>
+        <para id="id1167224164181"> DID YOU KNOW?</para>
+        <para id="id1167224164193">The Chinese write either from top to bottom or from left to right. Some of their numbers look like these:</para>
+        <para id="id1167224164200">1.</para>
+        <figure id="id1167224164208">
+          <media id="id1167224164208_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-cb3f.png" id="id1167224164208__onlineimage" height="16" width="51"/>
+          </media>
+        </figure>
+        <para id="id1167224164231">2.</para>
+        <figure id="id1167224164238">
+          <media id="id1167224164238_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 5-df5d.png" id="id1167224164238__onlineimage" height="27" width="48"/>
+          </media>
+        </figure>
+        <para id="id1167224164261">3.</para>
+        <figure id="id1167224164269">
+          <media id="id1167224164269_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-6afd.png" id="id1167224164269__onlineimage" height="38" width="52"/>
+          </media>
+        </figure>
+        <para id="id1167224164292">4.</para>
+        <figure id="id1167224164300">
+          <media id="id1167224164300_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-4b0d.png" id="id1167224164300__onlineimage" height="30" width="76"/>
+          </media>
+        </figure>
+        <para id="id1167224164323">5.</para>
+        <figure id="id1167224164330">
+          <media id="id1167224164330_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 8-b285.png" id="id1167224164330__onlineimage" height="61" width="65"/>
+          </media>
+        </figure>
+        <para id="id1167224164353">6.</para>
+        <figure id="id1167224164361">
+          <media id="id1167224164361_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-b08d.png" id="id1167224164361__onlineimage" height="45" width="55"/>
+          </media>
+        </figure>
+        <para id="id1167224164384">7.</para>
+        <para id="id1167224164388">
+          <figure id="id1167224164393">
+            <media id="id1167224164393_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 10-ae05.png" id="id1167224164393__onlineimage" height="50" width="54"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1167224164416">8.</para>
+        <figure id="id1167224164423">
+          <media id="id1167224164423_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-6b87.png" id="id1167224164423__onlineimage" height="56" width="51"/>
+          </media>
+        </figure>
+        <para id="id1167224164446">9.</para>
+        <figure id="id1167224164454">
+          <media id="id1167224164454_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 12-df37.png" id="id1167224164454__onlineimage" height="59" width="48"/>
+          </media>
+        </figure>
+        <para id="id1167224164477">10.</para>
+        <figure id="id1167224164485">
+          <media id="id1167224164485_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-051d.png" id="id1167224164485__onlineimage" height="58" width="54"/>
+          </media>
+        </figure>
+        <para id="id1167224164508">100.</para>
+        <figure id="id1167224164516">
+          <media id="id1167224164516_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 14-c0a6.png" id="id1167224164516__onlineimage" height="68" width="50"/>
+          </media>
+        </figure>
+        <para id="id1167224164539">1.1 Can you write the following in Chinese? Then give the answer in our number system.</para>
+        <table id="id1167224164547" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>a)</entry>
+                <entry>10 ÷ 1 =</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>100 ÷ 10 = </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>9 ÷ 3 =</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>100 ÷ 4 = </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>100 ÷ 5 =</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>f)</entry>
+                <entry>100 ÷ 7 =</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224164735">Division by 10, 100 and 1 000</para>
+      </section>
+      <section id="id1167224164741">
+        <title>Activity 5:</title>
+        <para id="para-id1167224164741">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224164749">
+        <title>To describe observed patterns and rules in own terms [LO 2.2]</title>
+        <para id="id1167224164756">1. In Mathematics certain rules enable us to calculate answers quickly. However, we must be able to "spot" or "deduce" the rule first before we can apply it. Work with a friend and complete the table.</para>
+        <table id="id1167224164766" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>Number</entry>
+                <entry>20</entry>
+                <entry>50</entry>
+                <entry>90</entry>
+                <entry>120</entry>
+                <entry>360</entry>
+                <entry>1 470</entry>
+                <entry>2 560</entry>
+                <entry>14 380</entry>
+                <entry>26 520</entry>
+              </row>
+              <row>
+                <entry>÷ 10</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+                <entry>............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224165061">What do you notice when you look at the answer?</para>
+        <para id="id1167224165065">2. Complete the following also:</para>
+        <table id="id1167224165072" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Number</entry>
+                <entry>300</entry>
+                <entry>800</entry>
+                <entry>1 200</entry>
+                <entry>2 600</entry>
+                <entry>14 700</entry>
+                <entry>32 500</entry>
+              </row>
+              <row>
+                <entry>÷ 100</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224165274">Can you also write down the answers to the following?</para>
+        <para id="id1167224165279">3. Can you also write down the answers to the following?</para>
+        <table id="id1167224165285" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Number</entry>
+                <entry>5 000</entry>
+                <entry>7 000</entry>
+                <entry>13 000</entry>
+                <entry>45 000</entry>
+                <entry>126 000</entry>
+                <entry>382 000</entry>
+              </row>
+              <row>
+                <entry>÷ 1 000</entry>
+                <entry>..................</entry>
+                <entry>..................</entry>
+                <entry>..................</entry>
+                <entry>..................</entry>
+                <entry>..................</entry>
+                <entry>..................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224165488">What happens when we divide by 1 000?</para>
+        <para id="id1167224165492">Division by multiples of 10 and 100:</para>
+      </section>
+      <section id="id1167224165498">
+        <title>Activity 6:</title>
+        <para id="para-id1167224165498">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224165506">
+        <title>To calculate by using selected computations [LO 1.8.4]</title>
+        <para id="id1167224165512">1. You have now discovered rules for division by 10, 100 and 1 000. Now let us look at division by multiples of 10 and 100. Work through the following calculations with a friend:</para>
+        <table id="id1167224165523" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>1.1 180 ÷ 20 = (180 ÷ 10) ÷ 2 = 18 ÷ 2 = 9</entry>
+                <entry>1.2 4 200 ÷ 60 = (4 200 ÷ 10) ÷ 6 = 420 ÷ 6 = 70</entry>
+              </row>
+              <row>
+                <entry>1.3 3 600 ÷ 400 = (3 600 ÷ 100) ÷ 4 = 36 ÷ 4 = 9</entry>
+                <entry>1.4 54 000 ÷ 900 = (54 000 ÷ 100) ÷ 9 = 540 ÷ 9 = 60</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224165737">2. Complete the following on your own:</para>
+        <para id="id1167224165743">2.1 1 380 ÷ 60 = (1 380 ÷ 10) ÷ ..................</para>
+        <para id="id1167224165778">  =  .................. ÷ ..................</para>
+        <para id="id1167224165793">  = ..................</para>
+        <para id="id1167224165802">2.2 32 840 ÷ 40 =  (32 840 ÷ ..................) ÷ ..................</para>
+        <para id="id1167224165824">  = ......................... ÷ ..................</para>
+        <para id="id1167224165838">  = ..................</para>
+        <para id="id1167224165846">2.3 15 500 ÷ 500 =  (15 500 ÷ 100) ÷ ..................</para>
+        <para id="id1167224165868">  = .................. ÷ ..................</para>
+        <para id="id1167224165882">  = ..................</para>
+        <para id="id1167224165890">2.4 312 300 ÷ 300 =  (312 300 ÷ ..................) ÷ ..................</para>
+        <para id="id1167224165909">  = ......................... ÷ ..................</para>
+        <para id="id1167224165935">  = ..................</para>
+        <para id="id1167224165944"/>
+        <para id="id1167224165948"> DID YOU KNOW?</para>
+        <para id="id1167224165960">We can also break up the <emphasis effect="bold">divisor</emphasis> into <emphasis effect="bold">factors</emphasis>:</para>
+        <para id="id1167224165985">E.g. 108 ÷ 12 = 108 ÷ 4 ÷ 3 = 27 ÷ 3 = 9</para>
+        <para id="id1167224166024">OR</para>
+        <para id="id1167224166028">108 ÷ 12 = 108 ÷ 2 ÷ 6  = 54 ÷ 6 = 9</para>
+        <para id="id1167224166064">3. Calculate the following by breaking up the <emphasis effect="bold">divisor</emphasis> into <emphasis effect="bold">factors</emphasis>:</para>
+        <para id="id1167224166091">3.1 105 ÷ 21 = ...................................... 3.2 216 ÷ 24 = ......................................</para>
+        <para id="id1167224166140">  = ......................................  = ......................................</para>
+        <para id="id1167224166173">  = ......................................  = ......................................</para>
+        <para id="id1167224166206">3.3 432 ÷ 24 = ...................................... 3.4 126 ÷ 14 = ......................................</para>
+        <para id="id1167224166255">  = ......................................  = ......................................</para>
+        <para id="id1167224166288">  = ......................................  = ......................................</para>
+        <para id="id1167224166322">4. Work together with a friend. Look carefully at the following and then explain it to two other friends.</para>
+        <para id="id1167224166331">4.1 184 ÷ 4 = (180 + 4) ÷ 4</para>
+        <para id="id1167224166355">= (180 ÷ 4) + (4 ÷ 4)</para>
+        <para id="id1167224166375">= 45 + 1</para>
+        <para id="id1167224166386">= 46</para>
+        <para id="id1167224166392">4.2 2 515 ÷ 5 = (2 000 + 500 + 15) ÷ 5</para>
+        <para id="id1167224166421">= (2 000 ÷ 5) + (500 ÷ 5) + (15 ÷ 5)</para>
+        <para id="id1167224166451">= 400 + 100 + 3</para>
+        <para id="id1167224166466">= 503</para>
+        <para id="id1167224166472">4.3 3 672 ÷ 12 = (3 600 ÷ 12) + (72 ÷ 12)</para>
+        <para id="id1167224166503">= 300 + 6</para>
+        <para id="id1167224166514">= 306</para>
+        <para id="id1167224166520">5. Complete the following:</para>
+        <para id="id1167224166527">5.1 3 045 ÷ 15 = (3 000 + ....................) ÷ 15</para>
+        <para id="id1167224166565">= (.................... ÷ 15) + (.................... ÷ 15)</para>
+        <para id="id1167224166613">= 200 + ....................</para>
+        <para id="id1167224166633">= ....................</para>
+        <para id="id1167224166650">5.2 2 575 ÷ 25 = (2 000 + .................... + ....................) ÷ 25</para>
+        <para id="id1167224166703">= (2 000 ÷ 25) + (.................... ÷ .............) + (............. ÷ ............)</para>
+        <para id="id1167224166733">= .................... + .................... + ....................</para>
+        <para id="id1167224166749">= ....................</para>
+        <para id="id1167224166756">5.3 Can you write down your own explanation? </para>
+      </section>
+      <section id="id1167224166898">
+        <title>Activity 7:</title>
+        <para id="para-id1167224166898">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224166906">
+        <title>To be able to do mental arithmetic [LO 1.9.2]</title>
+        <para id="id1167224166912">1. Let us test your mental skills again. Find the correct answer and encircle it with your pencil. Find out who or what is hidden away.</para>
+        <para id="id1167224166924">1.1  96 ÷ 12</para>
+        <para id="id1167224166936">1.2  108 ÷ 9</para>
+        <para id="id1167224166950">1.3  72 ÷ 9</para>
+        <para id="id1167224166963">1.4  42 ÷ 6</para>
+        <para id="id1167224166976">1.5  54 ÷ 6</para>
+        <para id="id1167224166988">1.6  32 ÷ 8</para>
+        <para id="id1167224167001">1.7  27 ÷ 9</para>
+        <para id="id1167224167014">1.8  66 ÷ 11</para>
+        <para id="id1167224167027">1.9  81 ÷ 9</para>
+        <para id="id1167224167040">1.10 35 ÷ 7</para>
+        <para id="id1167224167051">1.11 21 ÷ 3</para>
+        <para id="id1167224167062">1.12 ____ ÷ 6 = 9</para>
+        <para id="id1167224167078">1.13 ____ ÷ 8 = 6</para>
+        <para id="id1167224167094">1.14 ____ ÷ 6 = 12</para>
+        <para id="id1167224167109">1.15 ___ ÷ 11 = 12</para>
+        <para id="id1167224167125">1.16 ____ ÷ 9 = 5</para>
+        <para id="id1167224167141">1.17 ____ ÷ 7 = 8</para>
+        <para id="id1167224167156">1.18 Halve: 96</para>
+        <para id="id1167224167165">1.19 Halve: 134</para>
+        <para id="id1167224167175">1.20 Halve: 576</para>
+        <para id="id1167224167184"/>
+        <para id="id1167224167188">Colour the pictures in neatly so that your answers are clearly visible.</para>
+        <figure id="id1167224167198">
+          <media id="id1167224167198_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-55b4.png" id="id1167224167198__onlineimage" height="535" width="425"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id1167224167226">
+        <title>Activity 8:</title>
+        <para id="para-id1167224167226">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224167234">
+        <title>To estimate and calculate by using selected computations [LO 1.8.5]</title>
+        <para id="id1167224167241">1. We have already discussed the value of <emphasis effect="bold">estimation</emphasis>. Let us see again how well you can estimate. Encircle the best answer.</para>
+        <table id="id1167224167264" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry namest="c3" nameend="c5">I ESTIMATE</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>How many 16’s are there in 35?</entry>
+                <entry>2</entry>
+                <entry>12</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>How many 15’s are there in 93?</entry>
+                <entry>6</entry>
+                <entry>16</entry>
+                <entry>60</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>How many 13’s are there in 271?</entry>
+                <entry>2</entry>
+                <entry>20</entry>
+                <entry>200</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>How many 25’s are there in 4 130?</entry>
+                <entry>27</entry>
+                <entry>175</entry>
+                <entry>750</entry>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>How many 21’s are there in 8 565?</entry>
+                <entry>4</entry>
+                <entry>40</entry>
+                <entry>400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224167580">2. Now use your calculator to see whether you were spot on.</para>
+      </section>
+      <section id="id1167224167587">
+        <title>Activity 9:</title>
+        <para id="para-id1167224167587">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224167595">
+        <title>To be able to solve problems in context [LO 1.6.1]</title>
+        <list id="id1167224167601" list-type="bulleted">
+          <item>The following activity is a group project that you can add to your portfolio. Your educator will provide you with the necessary paper and will explain exactly what you are expected to do. </item>
+          <item>Divide into groups of four or five and then read the assignment closely. </item>
+          <item>Your group must visit at least three florists or flower vendors in your area. Your job is to determine which florist or vendor is the cheapest.</item>
+        </list>
+        <para id="id1167224167629">Remember to use the following as guidelines:</para>
+        <list id="id1167224167633" list-type="enumerated" number-style="arabic">
+          <item>Look only at <emphasis effect="bold">mixed bouquets</emphasis>.</item>
+          <item>Consider the <emphasis effect="bold">number of flowers</emphasis> in every bunch.</item>
+          <item>State in your report which of the vendors or florists is the cheapest and motivate your answer. Remember to show all your calculations.</item>
+          <item>Work neatly and hand in your project on time.</item>
+        </list>
+      </section>
+      <section id="id1167224167685">
+        <title>Activity 10:</title>
+        <para id="para-id1167224167685">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224167693">
+        <title>To solve problems in context [LO 1.6]</title>
+        <para id="id1167224167701">1. Divide into groups of three. Ask your educator for the necessary paper and solve the following problems without the use of a calculator:</para>
+        <list id="id1167224167711" list-type="bulleted">
+          <item>2 924 spectators have to be transported by bus to a soccer stadium. If every bus can seat 68 passengers, how many buses are needed to take everybody to the stadium?</item>
+          <item>55 educators were taken by taxi to the same stadium. If they had to pay R2 475 in total for the trip, how much money did each educator have to pay the driver?</item>
+          <item>A group of rugby players decided to support their soccer-playing friends. If there were 2 010 rugby players in total, how many rugby teams attended the soccer matches? (There are 15 players in a rugby team).</item>
+        </list>
+        <para id="id1167224167740">2. Check your answers with a calculator.</para>
+        <para id="id1167224167746">3. Compare your solutions to those of the other groups in class.</para>
+        <para id="id1167224167753">4. Discuss the differences and / or similarities between the different methods used.</para>
+      </section>
+      <section id="id1167224167760">
+        <title>Activity 11:</title>
+        <para id="para-id1167224167760">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224167768">
+        <title>To determine the equivalence and validity of different representations of the same problem by means of comparison and discussion [LO 2.6]</title>
+        <list id="id1167224167776" list-type="bulleted">
+          <item>In the previous activity you used your own strategies and methods to solve the problems. In the next activity the answers have already been calculated. Work with a friend and explain to each other the different solutions to the problem:</item>
+        </list>
+        <para id="id1167224167789">There are 7 310 books in the school library. The librarian wants to put 34 books on each shelf. How many shelves does she need?</para>
+        <para id="id1167224167798">1. I calculate my answer by doing <emphasis effect="bold">repeated subtraction</emphasis><emphasis effect="bold">.</emphasis></para>
+        <para id="id1167224167816">I know 34 × 100 = 3 400.</para>
+        <para id="id1167224167833">Thus:   7 310</para>
+        <para id="id1167224167841"><emphasis effect="underline">- 3 400</emphasis> (100)</para>
+        <para id="id1167224167862">  3 910</para>
+        <para id="id1167224167870"><emphasis effect="underline">- 3 400</emphasis> (100)</para>
+        <para id="id1167224167890">  510</para>
+        <para id="id1167224167897"><emphasis effect="underline">- 340</emphasis> (10)</para>
+        <para id="id1167224167917">  170</para>
+        <para id="id1167224167924"><emphasis effect="underline">- 170</emphasis> (5)</para>
+        <para id="id1167224167944">   - - -</para>
+        <para id="id1167224167951">The answer is thus 100 + 100 + 10 + 5 = 215</para>
+        <para id="id1167224167955">2. I must calculate 7 310 ÷ 34. I do this by <emphasis effect="bold">multiplication</emphasis><emphasis effect="bold">.</emphasis></para>
+        <para id="id1167224167976">34 × 100 = 3 400, so 34 × <emphasis effect="bold">200</emphasis> = 6 800</para>
+        <para id="id1167224168026">7 310 – 6 800 = 510</para>
+        <para id="id1167224168040">34 × <emphasis effect="bold">10</emphasis> = 340</para>
+        <para id="id1167224168070">510 – 340 = 170</para>
+        <para id="id1167224168084">34 × <emphasis effect="bold">5</emphasis> = 170</para>
+        <para id="id1167224168115">170 – 170 = 0</para>
+        <para id="id1167224168128">The quotient is thus 200 + 10 + 5 = 215</para>
+        <list id="id1167224168151" list-type="enumerated" number-style="arabic">
+          <item>7 310 = 3 400 + 3 400 + 340 + 170</item>
+        </list>
+        <para id="id1167224168176">Thus: (3 400 ÷ 34) + (3 400 ÷ 34) + (340 ÷ 34) + (170 ÷ 34)</para>
+        <para id="id1167224168183">= 100 + 100 + 10 + 5</para>
+        <para id="id1167224168188">= 215</para>
+        <para id="id1167224168194">6. Can you think of another method to calculate 7 310 ÷ 34?</para>
+        <para id="id1167224168207">7 Explain the method used at no. 5 to your class. (Imagine YOU are the teacher!)</para>
+        <para id="id1167224168216">8. Which of the above methods do you prefer?  </para>
+        <para id="id1167224168224">Why? </para>
+      </section>
+      <section id="id1167224168231">
+        <title>Activity 12:</title>
+        <para id="para-id1167224168231">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167224168239">
+        <title>To calculate by using selected computations [LO 1.8.5]</title>
+        <para id="id1167224168245">1. You have now looked at a variety of methods that we can use for division. Now let us concentrate on only one of them. Find the quotient of the following by using the method as applied to no. 5 on the previous page.</para>
+        <table id="id1167224168257" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>1.1 4 650 ÷ 25</entry>
+                <entry>1.2 5 250 ÷ 21</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1167224168657" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>1.3 2 648 ÷ 42</entry>
+                <entry>1.4 9 850 ÷ 50</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167224169052">2. Now use any method of your choice and calculate:</para>
+        <table id="id1167224169059" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>2.1 15 350 ÷ 45</entry>
+                <entry>2.2 32 648 ÷ 28</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> ..................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> .................................................</entry>
+              </row>
+              <row>
+                <entry> ..................................................</entry>
+                <entry> .................................................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1167224169462">
+      <title>Assessment</title>
+      <table id="id1167224169469" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.2 describes and illustrates various ways of writing numbers in different cultures (including local) throughout history;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognises and represents numbers in order to describe and compare them:</entry>
+            </row>
+            <row>
+              <entry>1.3.6 multiples of single-digit numbers to at least 100;</entry>
+            </row>
+            <row>
+              <entry>1.3.7 factors of at least any 2-digit whole number;</entry>
+            </row>
+            <row>
+              <entry>1.6 solves problems in context including contexts that may be used to build awareness of other Learning Areas, as well as human rights, social, economic and environmental issues;</entry>
+            </row>
+            <row>
+              <entry>1.6.1 financial (including buying and selling, profit and loss, and simple budgets);</entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems:</entry>
+            </row>
+            <row>
+              <entry>1.8.1 rounding off to the nearest 5, 10, 100 or 1 000;</entry>
+            </row>
+            <row>
+              <entry>1.8.4 multiplication of at least whole 3-digit by 2-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.8.5 division of at least whole 3-digit by 2-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations:</entry>
+            </row>
+            <row>
+              <entry>1.9.2 multiplication of whole numbers to at least 10 × 10;</entry>
+            </row>
+            <row>
+              <entry>1.10 uses a range of techniques to perform written and mental calculations with whole numbers:</entry>
+            </row>
+            <row>
+              <entry>1.10.1 adding and subtracting in columns;</entry>
+            </row>
+            <row>
+              <entry>1.10.4 doubling and halving;</entry>
+            </row>
+            <row>
+              <entry>1.10.5 using a calculator;</entry>
+            </row>
+            <row>
+              <entry>1.11 uses a range of strategies to check solutions and judge the reasonableness of solutions;</entry>
+            </row>
+            <row>
+              <entry>1.12 recognises, describes and uses:1.12.1 the reciprocal relationship between multiplication and division (e.g. if 5 × 3 = 15 then 15  3 = 5 and 15  5 = 3);1.12.3 The commutative, associative and distributive properties with whole numbers (the expectation is that learners should be able to use the properties and not necessarily know the names).</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, functions and algebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.2 describes observed relationships or rules in own words;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, through discussion and comparison, the equivalence of different descriptions of the same relationship or rule presented:<list id="id1167224170017" list-type="bulleted"><item>verbally;</item></list>2.6.3 by number sentences.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1167224170032">
+      <title>Memorandum</title>
+      <para id="id1167224170039">ACTIVITY 1</para>
+      <para id="id1167224170044">3.1</para>
+      <table id="id1167224170048" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>34</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>2</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224170241">3.2</para>
+      <table id="id1167224170245" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>61</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Res</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>5</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224170443">4. 4.1  20   4.11  72</para>
+      <para id="id1167224170464"> 4.2  48   4.12  54</para>
+      <para id="id1167224170485"> 4.3  6   4.13  306</para>
+      <para id="id1167224170505"> 4.4  9   4.14  243
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167224170579"> 4.5  56   4.15  518</para>
+      <para id="id1167224170598"> 4.6  72   4.16  36</para>
+      <para id="id1167224170618"> 4.7  7   4.17  48</para>
+      <para id="id1167224170641"> 4.8  70   4.18  12</para>
+      <para id="id1167224170661">4.8  7   4.19  9</para>
+      <para id="id1167224170684">4.10  70   4.20  40</para>
+      <para id="id1167224170703">ACTIVITY 2</para>
+      <para id="id1167224170708">1.1 26  26</para>
+      <para id="id1167224170718">1.2 30  30</para>
+      <para id="id1167224170727">ACTIVITY 3</para>
+      <para id="id1167224170732"> 1.1  5  </para>
+      <para id="id1167224170745">1.2  86</para>
+      <para id="id1167224170759">1.3  359  </para>
+      <para id="id1167224170772">1.4 4 625</para>
+      <para id="id1167224170779">1.5 32 174</para>
+      <para id="id1167224170785">2. When any number is divided by 1, the answer always remains the number</para>
+      <para id="id1167224170792">BRAIN TEASERS</para>
+      <equation id="id1167224170797">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{5} } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1167224170853">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mtext>86</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"86"} } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <equation id="id1167224170911">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mtext>359</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"359"} } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <equation id="id1167224170968">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mtext>4625</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"4625"} } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1167224171025">Fractions</para>
+      <para id="id1167224171029">3. 3.1 O E  3.2 O E</para>
+      <para id="id1167224171043"> 3.3 O E  3.4 O E</para>
+      <para id="id1167224171056">3.5 O E</para>
+      <para id="id1167224171062">4. Shows “Error” (Answer is incorrect)</para>
+      <para id="id1167224171072">BRAIN TEASERS</para>
+      <para id="id1167224171076"/>
+      <para id="id1167224171081">  45</para>
+      <para id="id1167224171088"> 216</para>
+      <para id="id1167224171094">ACTIVITY 4</para>
+      <para id="id1167224171098">1.1 a) 10</para>
+      <list id="id1167224171107" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>10</item>
+        <item>3</item>
+        <item>25</item>
+        <item>20</item>
+        <item>14 rem 2</item>
+      </list>
+      <para id="id1167224171141">14
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{2} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167224171198">ACTIVITY 5</para>
+      <para id="id1167224171203">1.</para>
+      <table id="id1167224171207" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>2</entry>
+              <entry>5</entry>
+              <entry>9</entry>
+              <entry>12</entry>
+              <entry>147</entry>
+              <entry>256</entry>
+              <entry>1 438</entry>
+              <entry>2 652</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224171377">O falls away. Each number moves one place to the right.</para>
+      <para id="id1167224171384">2.</para>
+      <table id="id1167224171388" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>3</entry>
+              <entry>8</entry>
+              <entry>12</entry>
+              <entry>26</entry>
+              <entry>147</entry>
+              <entry>325</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224171517"> 2 Noughts fall away. Each number moves two places to the right.</para>
+      <para id="id1167224171525">3.</para>
+      <table id="id1167224171529" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>13</entry>
+              <entry>45</entry>
+              <entry>126</entry>
+              <entry>382</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224171658"> 3 Noughts falls away. Each number moves three places to the right.</para>
+      <para id="id1167224171666">2. 2.1 = (1 380 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 110) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math>6</para>
+      <para id="id1167224171763">  =  138 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 6</para>
+      <para id="id1167224171817">  =  23</para>
+      <para id="id1167224171830"> 2.2 = (32 840 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 10) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 4</para>
+      <para id="id1167224171923">  =  3 284 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 4</para>
+      <para id="id1167224171980">  =  821</para>
+      <para id="id1167224171992">2.3 = (15 500 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 100) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 5</para>
+      <para id="id1167224172084">=  155 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 5</para>
+      <para id="id1167224172142">=  31</para>
+      <para id="id1167224172153">2.4 = (312 300 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 100) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 3</para>
+      <para id="id1167224172245">=  3 123</para>
+      <para id="id1167224172256">=  1 041</para>
+      <para id="id1167224172267">3. 3.1 = 105 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 7   3.2 =  216 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 6</para>
+      <para id="id1167224172453">  =  35 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 7    =  54 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 6</para>
+      <para id="id1167224172556">  =  5     =  9</para>
+      <para id="id1167224172581"> 3.3 = 432 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 3   3.4 = 126 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 7</para>
+      <para id="id1167224172766">  =  54 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 3    =  63 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 7</para>
+      <para id="id1167224172870">  =  18     =  9</para>
+      <para id="id1167224172893">5. 5.1 = (3 000 + <emphasis effect="bold">45</emphasis>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 15 </para>
+      <para id="id1167224172952">= (<emphasis effect="bold">3 000</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 15) + (<emphasis effect="bold">45</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 15 </para>
+      <para id="id1167224173054">= 200 + <emphasis effect="bold">3</emphasis></para>
+      <para id="id1167224173065">  = <emphasis effect="bold">203</emphasis></para>
+      <para id="id1167224173076">5.2 = (2 000 + <emphasis effect="bold">500</emphasis> + <emphasis effect="bold">75</emphasis>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math>25</para>
+      <para id="id1167224173138">= (2 000 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 25) + (<emphasis effect="bold">500 </emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"> 25</emphasis>) + (<emphasis effect="bold">75</emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"/>25<emphasis effect="bold">)</emphasis></para>
+      <para id="id1167224173297">=<emphasis effect="bold"> 80</emphasis> + <emphasis effect="bold">20</emphasis> + <emphasis effect="bold">3</emphasis></para>
+      <para id="id1167224173318">= <emphasis effect="bold">103</emphasis></para>
+      <para id="id1167224173328">ACTIVITY 8</para>
+      <para id="id1167224173333">1.</para>
+      <table id="id1167224173337" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>a) 2</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>b) 6</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>c)</entry>
+              <entry>20</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>d)</entry>
+              <entry>175</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>e)</entry>
+              <entry/>
+              <entry>400</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167224173494">ACTIVITY 12</para>
+      <para id="id1167224173499">  186     250</para>
+      <para id="id1167224173518"> 1.1  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mrow><m:mo stretchy="false">∣</m:mo><m:mover accent="true"><m:mtext>4650</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25" {\lline overline "4650"} } {}</m:annotation></m:semantics></m:math>   1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mrow><m:mo stretchy="false">∣</m:mo><m:mover accent="true"><m:mtext>5250</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21" {\lline overline "5250"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167224173644">
+        <emphasis effect="underline">-25</emphasis>
+        <emphasis effect="underline">-42</emphasis>
+      </para>
+      <para id="id1167224173676">  215     105</para>
+      <para id="id1167224173695">
+        <emphasis effect="underline">-200</emphasis>
+        <emphasis effect="underline">-105</emphasis>
+      </para>
+      <para id="id1167224173721">150 0</para>
+      <para id="id1167224173733">
+        <emphasis effect="underline">-150</emphasis>
+        <emphasis effect="underline">-0</emphasis>
+      </para>
+      <para id="id1167224173756">
+        <emphasis effect="bold">…</emphasis>
+        <emphasis effect="bold"> .</emphasis>
+      </para>
+      <para id="id1167224173779">1.3  63    1.4</para>
+      <para id="id1167224173795">197<equation id="id1167224173825"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>50</m:mtext><m:mrow><m:mo stretchy="false">∣</m:mo><m:mover accent="true"><m:mtext>9850</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"50" {\lline overline "9850"} } {}</m:annotation></m:semantics></m:math></equation><emphasis effect="underline">-50</emphasis>485<emphasis effect="underline">-450</emphasis>350<emphasis effect="underline">-350</emphasis><emphasis effect="bold">…</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>42</m:mtext><m:mrow><m:mo stretchy="false">∣</m:mo><m:mover accent="true"><m:mtext>2648</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"42" {\lline overline "2648"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167224173998">
+        <emphasis effect="underline">-252</emphasis>
+      </para>
+      <para id="id1167224174008">128</para>
+      <para id="id1167224174016">
+        <emphasis effect="underline">-126</emphasis>
+      </para>
+      <para id="id1167224174027">2</para>
+      <para id="id1167224174034">  63 rem 2</para>
+      <para id="id1167224174040">2.1 341 rem 5   2.2 1 166</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine the output values for given input values</title>
+  <metadata>
+  <md:content-id>m22875</md:content-id><md:title>To determine the output values for given input values</md:title>
+  <md:abstract/>
+  <md:uuid>c72e900a-a7a2-48ad-a507-a32df9aaba96</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165267724221">
+      <title>MATHEMATICS</title>
+      <para id="para-id1165267724221">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165266755550">
+      <title>Number Concept, Addition and Subtraction</title>
+      <para id="para-id1165266755550">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165266903009">
+      <title>Subtraction</title>
+      <para id="para-id1165266903009">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165267078881">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1165267078881">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8288601">
+      <title>Memorandum</title>
+      <para id="id1165267113334">1. </para>
+      <para id="id1165267733692">a) 40 </para>
+      <para id="id6048990">b) 420 </para>
+      <para id="id1165266988302">c) 1 780 </para>
+      <para id="id1165267104847">d) 24 270</para>
+      <para id="id1165267068755">3. less 40 because 19 + 1 = 20 and 21 – 1 = 20</para>
+      <section id="id5849720">
+        <title>PUZZLE</title>
+        <para id="id1165266749245">a) 41 and 42</para>
+        <para id="id1165267036482">b) 118 and 119</para>
+        <para id="id6229972">c) 88 and 89</para>
+        <para id="id1165267099127">d) 100 and 101</para>
+      </section>
+    </section>
+    <section id="id5842625">
+      <title>Leaner Section</title>
+      <para id="para-id5842625">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165270692780">
+      <title>Content</title>
+      <section id="id7332640">
+        <title>Activity: To determine the output values for given input values [LO 2.3]</title>
+        <para id="id1165267069958">1. Below is an example of a flow diagram. The numbers on the left are called input values, and the answers you have to provide are called output values. See whether you can complete the flow diagram without the help of a calculator.</para>
+        <figure id="id1165270759018">
+          <media id="id1165270759018_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-0f31.png" id="id1165270759018__onlineimage" height="140" width="483"/>
+          </media>
+        </figure>
+        <para id="id1165267013183">2. Use a pocket calculator to check you answers.</para>
+        <para id="id1165267085979">3. How could you calculate the answers WITHOUT first subtracting 19 and then 21?</para>
+        <para id="id2334328">_____________________________________________________________________</para>
+        <para id="id5090457">_____________________________________________________________________</para>
+        <para id="id1165268820841">_____________________________________________________________________</para>
+        <para id="id1165267775830">_____________________________________________________________________ </para>
+        <para id="id1165270685560">A PUZZLE</para>
+        <para id="id1165266748417">Consecutive numbers are numbers that follow directly after one another when you count, e.g. 22 and 23. Show whether you are able to figure out what the missing consecutive numbers are that will make the following number sentences true:</para>
+        <figure id="id1165267035128">
+          <media id="id1165267035128_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-10bf.png" id="id1165267035128__onlineimage" height="271" width="400"/>
+          </media>
+        </figure>
+        <para id="id1165267920727">TIME TO DO SELF-ASSESSMENT</para>
+        <list id="id3137339" list-type="bulleted">
+          <item>Colour in the picture that is true for you:   </item>
+        </list>
+        <para id="id8217074">
+          <figure id="id1165266756752">
+            <media id="id1165266756752_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-9e4d.png" id="id1165266756752__onlineimage" height="320" width="491"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id1165267114234">
+      <title>Assessment</title>
+      <para id="id1165268162952"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1165267113255"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner determines output values for given input values, using:</para>
+      <para id="id1165267771939">2.3.1 verbal descriptions;</para>
+      <para id="id1165267035769">2.3.2 flow diagrams.</para>
+    </section>
+  </content>
+</document>

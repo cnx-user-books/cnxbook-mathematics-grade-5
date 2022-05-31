@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine the equivalence and validity of different representations</title>
+  <metadata>
+  <md:content-id>m22880</md:content-id><md:title>To determine the equivalence and validity of different representations</md:title>
+  <md:abstract/>
+  <md:uuid>7624a4e2-d484-4dd6-bef4-bf3235902ef4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165267074553">
+      <title>MATHEMATICS</title>
+      <para id="para-id1165267074553">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165264964766">
+      <title>Number Concept, Addition and Subtraction</title>
+      <para id="para-id1165264964766">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165266695875">
+      <title>Subtraction</title>
+      <para id="para-id1165266695875">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165261963320">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1165261963320">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165270840311">
+      <title>Memorandum</title>
+      <para id="id1165266785889">2.1 and 2.2 own answer </para>
+      <para id="id1165266202010">Leaner Section</para>
+    </section>
+    <section id="id1165266005500">
+      <title>Content</title>
+      <section id="id1165263011356">
+        <title>Activity: To determine the equivalence and validity of different representations [LO 2.6]</title>
+        <para id="para-id1165263011356">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1165268119453">
+        <title>To use strategies to check solutions [LO 1.11]</title>
+        <list id="id1165268104810" list-type="bulleted">
+          <item>During the revious activity you used your own techniques and strategies to solve the problems. In your feedback to the class you probably noticed that there is not only one way in which we can subtract numbers. Divide into groups of three. Read the following problem thoroughly and as a group work through the different methods of solving it.</item>
+        </list>
+        <para id="id1165268101665">A rugby match was attended by 32 564 men and 29 436 women. </para>
+        <list id="id1165263288690" list-type="bulleted">
+          <item>How many more men than women watched the match?</item>
+        </list>
+        <para id="id1165262419446">1.1  I like doing addition:</para>
+        <para id="id1165264052206">32 564 – 29 436</para>
+        <para id="id1165264052304">Therefore: 29 436 + 64 = 29 500</para>
+        <para id="id1165268240995">29 500 + 500 = 30 000</para>
+        <para id="id1165265893116">30 000 + 2 564 = 32 564</para>
+        <para id="id1165266119149">64 + 500 + 2 564 = 3 128</para>
+        <para id="id1165268281112">Therefore there were 3 128 more men than women.</para>
+        <para id="id1165264945435">1.2 I round off the second number to the nearest 100:</para>
+        <para id="id1165266637139">32 564 – 29 436</para>
+        <para id="id3011938">Therefore:  32 564 – 29 400 = 3 164</para>
+        <para id="id1165268007174">3 164 – 36 = 3 128</para>
+        <para id="id1165268429166">The answer is 3 128 more men.</para>
+        <para id="id1165264956827">1.3  I prefer rounding off the subtrahend to the nearest 1 000:</para>
+        <para id="id1165266942257">32 564 – 29 436</para>
+        <para id="id7110846">Therefore: 32 564 – 29 000 = 3 564</para>
+        <para id="id1165265745076">3 564 – 436 = 3 128</para>
+        <para id="id1165264189811">1.4 I calculate the difference step by step:</para>
+        <para id="id1165272322422">32 564 – 29 436</para>
+        <para id="id1165266093108">Therefore: 32 000 – 29 000 = 3 000</para>
+        <para id="id1165272538613">564 – 436 = 128</para>
+        <para id="id1165264171534">3000 + 128 = 3 128</para>
+        <para id="id1165268011534">1.5  I first write the numbers in extended notation:</para>
+        <para id="id1165266124978">32 564 – 29 436</para>
+        <para id="id1165267106394">Thus: 30 000 + 2 000 + 500 + 60 + 4</para>
+        <para id="id1165267993292">
+          <emphasis effect="underline">- 20 000 + 9 000 + 400 + 30 + 6</emphasis>
+        </para>
+        <para id="id1165265741289">Now I regroup:</para>
+        <para id="id1165272448098"> 20 000 + 12 000 + 500 + 50 + 14</para>
+        <para id="id1165272350006">
+          <emphasis effect="underline">- 20 000 + 9 000 + 400 + 30 + 6</emphasis>
+        </para>
+        <para id="id1165264185416"> 0 + 3 000 + 100 + 20 + 8</para>
+        <para id="id1165263079190">Therefore the answer is 3 128</para>
+        <para id="id1165264170962">1.6 I calculate the difference by working with negative numbers:</para>
+        <para id="id1165264139628">32 564 – 29 436</para>
+        <para id="id1165272682471">Therefore: 30 000 – 20 000 = 10 000</para>
+        <para id="id1165266031564">  2 000 – 9 000 = – 7 000 (I still have to subtract 7 000)</para>
+        <para id="id1165268286543">  500 – 400 = 100</para>
+        <para id="id1165270957668">60 – 30 = 30</para>
+        <para id="id1165270858983">4 – 6 = – 2 (I still have to subtract 2)</para>
+        <para id="id1165263059570">The difference therefore is: </para>
+        <para id="id1165262018946">10 000 – 7 000 + 100 + 30 – 2 = 3 128</para>
+        <para id="id1165266112926">2. 2.1 Which of the above methods is the easiest for YOU? ______________ </para>
+        <para id="id1165266629850"/>
+        <para id="id2487632">Why?  _______________________________________________________________</para>
+        <para id="id1165264212723">_____________________________________________________________________</para>
+        <para id="id1165264330245">__________________________________________________________________________________________________________________________________________ </para>
+        <para id="id1165268503127"/>
+        <para id="id1165266627549">2.2 See if your group can think of any another method for calculating the difference.</para>
+        <para id="id1165266922146">_____________________________________________________________________</para>
+        <para id="id1165265748185">__________________________________________________________________________________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id1165266860106">
+      <title>Assessment</title>
+      <para id="id1165264179056"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1165264135882"><emphasis>Assessment Standard 1. 11:</emphasis> We know this when the learner uses a range of strategies to check solutions and judge the reasonableness of solutions;</para>
+      <para id="id1165270038939"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1165268116575"><emphasis>Assessment Standard 2.6:</emphasis> We know this when the learner determines, through discussion and comparison, the equivalence of different descriptions of the same relationship or rule.</para>
+      <para id="id8621616"/>
+    </section>
+  </content>
+</document>
